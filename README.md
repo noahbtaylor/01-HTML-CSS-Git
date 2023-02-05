@@ -16,7 +16,3 @@ What problem does it solve?
 What did you learn?
 
   - I learned that accessible sites rank higher in search engines
-
-Credits
-
-  - N/A
