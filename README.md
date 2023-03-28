@@ -1,4 +1,4 @@
-# 02-Challenge
+# Module 1 Challenge - Code Refactor
 Module 1 Challenge (02-09-2023)
 
 What was my motivation?
